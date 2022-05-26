@@ -17,7 +17,7 @@ const Header = () => {
           textAlign: "center",
         }}
       >
-        Todos Trial
+        Todos
       </h1>
     </header>
   );
